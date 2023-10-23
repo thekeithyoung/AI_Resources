@@ -19,3 +19,5 @@ Here is a list of AI related resources, most with a security or compliance persp
 <a href="https://blog.stackaware.com/p/deploying-securely-with-chatgpt">Generative AI security policy template</a>
 
 <a href="https://fpf.org/resource/fpf-releases-generative-ai-internal-policy-checklist-to-guide-development-of-policies-to-promote-responsible-employee-use-of-generative-ai-tools/">Generative AI for Organizational Use: Internal Policy Checklist</a>
+
+<a href="https://www.aiguardianapp.com/ai-risk-assessment">AI Guardian's AI Risk Assessment</a>
